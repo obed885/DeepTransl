@@ -1,5 +1,9 @@
 # DeepTransl
 
+
+Because of the many files that DeepTransl requires to run on Windows as an executable, I make the code source available for everyone, and you can run the "code-source-DeepTransl" in any ecosystem that supports Python language as a Python file, and you must install the required libraries imported on the "translator.py" to run DeepTransl on your own computer. 
+
+
 Here is an example in a demo of DeepTransl
 
 [https://github.com/user-attachments/assets/bf9e652f-67b9-4c68-89cd-f9817b1daf23](https://github.com/user-attachments/assets/41c5c1ce-f26d-4f21-825d-3c41d5ec21c3)
