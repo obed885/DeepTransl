@@ -6,6 +6,6 @@ Here is an example in a demo of DeepTransl
 
 Here are example of translations
 
-![image](Img1.png)
+![image](img1.png)
 
-![image](Img2.png)
+![image](img2.png)
