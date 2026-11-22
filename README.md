@@ -17,3 +17,7 @@ The menu Fichier (File) helps users make new translations and also quit the soft
 The menu Traduction (Traduction) helps users translate without clicking on the button "Traduire" and also clean inputs.
 
 ![image](translation.png)
+
+The menu Historique (History) helps users consult the history of all the translations made and also clean the history list.
+
+![image](History.png)
